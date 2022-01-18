@@ -8,8 +8,6 @@ freeCodeCamp module description:
 
 ## Exercises
 
----
-
 - [ ] [ 01 - Use Responsive Design with Bootstrap Fluid Containers]()
 - [ ] [ 02 - Make Images Mobile Responsive]()
 - [ ] [ 03 - Center Text with Bootstrap]()

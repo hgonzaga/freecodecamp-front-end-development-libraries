@@ -9,8 +9,6 @@ freeCodeCamp module description:
 
 ## Exercises
 
----
-
 - [ ] [ 01 - Getting Started with React Redux]()
 - [ ] [ 02 - Manage State Locally First]()
 - [ ] [ 03 - Extract State Logic to Redux]()

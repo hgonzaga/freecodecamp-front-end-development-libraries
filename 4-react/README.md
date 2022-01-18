@@ -8,8 +8,6 @@ freeCodeCamp module description:
 
 ## Exercises
 
----
-
 - [ ] [ 01 - Create a Simple JSX Element]()
 - [ ] [ 02 - Create a Complex JSX Element]()
 - [ ] [ 03 - Add Comments in JSX]()

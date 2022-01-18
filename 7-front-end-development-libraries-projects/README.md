@@ -8,8 +8,6 @@ freeCodeCamp module description:
 
 ## Exercises
 
----
-
 - [ ] [ 01 - Build a Random Quote Machine]()
 - [ ] [ 02 - Build a Markdown Previewer]()
 - [ ] [ 03 - Build a Drum Machine]()

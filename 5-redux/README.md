@@ -8,8 +8,6 @@ freeCodeCamp module description:
 
 ## Exercises
 
----
-
 - [ ] [ 01 - Create a Redux Store]()
 - [ ] [ 02 - Get State from the Redux Store]()
 - [ ] [ 03 - Define a Redux Action]()

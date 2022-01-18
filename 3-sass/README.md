@@ -8,8 +8,6 @@ freeCodeCamp module description:
 
 ## Exercises
 
----
-
 - [ ] [ 1 - Store Data with Sass Variables]()
 - [ ] [ 2 - Nest CSS with Sass]()
 - [ ] [ 3 - Create Reusable CSS with Mixins]()
