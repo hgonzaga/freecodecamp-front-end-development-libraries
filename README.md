@@ -24,15 +24,10 @@ freeCodeCamp course description:
 ---
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" alt="javascript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="40" alt="javascript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40" alt="javascript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" alt="javascript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="40" alt="javascript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
