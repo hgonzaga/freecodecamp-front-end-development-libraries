@@ -1,18 +1,28 @@
-<!-- Use Comments to Clarify Code
-When we start using jQuery, we will modify HTML elements without needing to actually change them in HTML.
+<!-- Change the CSS of an Element Using jQuery
+We can also change the CSS of an HTML element directly with jQuery.
 
-Let's make sure that everyone knows they shouldn't actually modify any of this code directly.
+jQuery has a function called .css() that allows you to change the CSS of an element.
 
-Remember that you can start a comment with <!- - and end a comment with  - ->
+Here's how we would change its color to blue:
 
-Add a comment at the top of your HTML that says Code below this line should not be changed
+$("#target1").css("color", "blue");
+This is slightly different from a normal CSS declaration, because the CSS property and its value are in quotes, and separated with a comma instead of a colon.
 
-- You should start a comment with <!- - at the top of your HTML.
-- Your comment should have the text Code below this line should not be changed.
-- You should close your comment with - ->.
-- You should have the same number of comment openers and closers.
+Delete your jQuery selectors, leaving an empty document ready function.
+
+Select target1 and change its color to red.
+
+- Your target1 element should have red text.
+- You should only use jQuery to add these classes to the element.
 -->
-<!-- Code below this line should not be changed -->
+<script>
+    $(document).ready(function () {
+        $("#target1").css("color", "red");
+    });
+</script>
+
+<!-- Only changed code above this line -->
+
 <div class="container-fluid">
     <h3 class="text-primary text-center">jQuery Playground</h3>
     <div class="row">

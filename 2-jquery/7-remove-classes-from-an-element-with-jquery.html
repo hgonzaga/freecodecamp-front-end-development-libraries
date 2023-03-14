@@ -1,18 +1,26 @@
-<!-- Use Comments to Clarify Code
-When we start using jQuery, we will modify HTML elements without needing to actually change them in HTML.
+<!-- Remove Classes from an Element with jQuery
+In the same way you can add classes to an element with jQuery's addClass() function, you can remove them with jQuery's removeClass() function.
 
-Let's make sure that everyone knows they shouldn't actually modify any of this code directly.
+Here's how you would do this for a specific button:
 
-Remember that you can start a comment with <!- - and end a comment with  - ->
+$("#target2").removeClass("btn-default");
+Let's remove the btn-default class from all of our button elements.
 
-Add a comment at the top of your HTML that says Code below this line should not be changed
-
-- You should start a comment with <!- - at the top of your HTML.
-- Your comment should have the text Code below this line should not be changed.
-- You should close your comment with - ->.
-- You should have the same number of comment openers and closers.
+- The btn-default class should be removed from all of your button elements.
+- You should only use jQuery to remove this class from the element.
+- You should only remove the btn-default class.
 -->
-<!-- Code below this line should not be changed -->
+<script>
+    $(document).ready(function () {
+        $("button").addClass("animated bounce");
+        $(".well").addClass("animated shake");
+        $("#target3").addClass("animated fadeOut");
+        $("button").removeClass("btn-default");
+    });
+</script>
+
+<!-- Only changed code above this line -->
+
 <div class="container-fluid">
     <h3 class="text-primary text-center">jQuery Playground</h3>
     <div class="row">

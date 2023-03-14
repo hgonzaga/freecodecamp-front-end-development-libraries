@@ -1,18 +1,23 @@
-<!-- Use Comments to Clarify Code
-When we start using jQuery, we will modify HTML elements without needing to actually change them in HTML.
+<!-- Remove an Element Using jQuery
+Now let's remove an HTML element from your page using jQuery.
 
-Let's make sure that everyone knows they shouldn't actually modify any of this code directly.
+jQuery has a function called .remove() that will remove an HTML element entirely
 
-Remember that you can start a comment with <!- - and end a comment with  - ->
+Remove the #target4 element from the page by using the .remove() function.
 
-Add a comment at the top of your HTML that says Code below this line should not be changed
-
-- You should start a comment with <!- - at the top of your HTML.
-- Your comment should have the text Code below this line should not be changed.
-- You should close your comment with - ->.
-- You should have the same number of comment openers and closers.
+- You should use jQuery to remove your target4 element from your page.
+- You should only use jQuery to remove this element.
 -->
-<!-- Code below this line should not be changed -->
+<script>
+    $(document).ready(function() {
+        $("#target1").css("color", "red");
+        $("#target1").prop("disabled", true);
+        $("#target4").remove();
+    });
+</script>
+
+<!-- Only changed code above this line -->
+
 <div class="container-fluid">
     <h3 class="text-primary text-center">jQuery Playground</h3>
     <div class="row">
