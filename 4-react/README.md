@@ -4,18 +4,22 @@ My solution proposals for the [React](https://www.freecodecamp.org/learn/front-e
 exercises.
 
 freeCodeCamp module description:
-> *"React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications. React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application. In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more."*
+> *"React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or
+applications. React combines HTML with JavaScript functionality into its own markup language called JSX. React also
+makes it easy to manage the flow of data throughout the application. In this course, you'll learn how to create
+different React components, manage data in the form of state props, use different lifecycle methods like
+componentDidMount, and much more."*
 
 ## Exercises
 
-- [ ] [ 01 - Create a Simple JSX Element]()
-- [ ] [ 02 - Create a Complex JSX Element]()
-- [ ] [ 03 - Add Comments in JSX]()
-- [ ] [ 04 - Render HTML Elements to the DOM]()
-- [ ] [ 05 - Define an HTML Class in JSX]()
-- [ ] [ 06 - Learn About Self-Closing JSX Tags]()
-- [ ] [ 07 - Create a Stateless Functional Component]()
-- [ ] [ 08 - Create a React Component]()
+- [x] [ 01 - Create a Simple JSX Element](1-create-a-simple-jsx-element.jsx)
+- [x] [ 02 - Create a Complex JSX Element](2-create-a-complex-jsx-element.jsx)
+- [x] [ 03 - Add Comments in JSX](3-add-comments-in-jsx.jsx)
+- [x] [ 04 - Render HTML Elements to the DOM](4-render-html-elements-to-the-dom.jsx)
+- [x] [ 05 - Define an HTML Class in JSX](5-define-an-html-class-in-jsx.jsx)
+- [x] [ 06 - Learn About Self-Closing JSX Tags](6-learn-about-self-closing-jsx-tags.jsx)
+- [x] [ 07 - Create a Stateless Functional Component](7-create-a-stateless-functional-component.jsx)
+- [x] [ 08 - Create a React Component](8-create-a-react-component.jsx)
 - [ ] [ 09 - Create a Component with Composition]()
 - [ ] [ 10 - Use React to Render Nested Components]()
 - [ ] [ 11 - Compose React Components]()
