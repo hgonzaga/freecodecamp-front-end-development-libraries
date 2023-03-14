@@ -11,7 +11,7 @@ freeCodeCamp course description:
 
 - [X] [ 1 - Boostrap](/1-bootstrap/README.md)
 - [X] [ 2 - jQuery](/2-jquery/README.md)
-- [ ] [ 3 - SASS](3-sass/README.md)
+- [X] [ 3 - SASS](3-sass/README.md)
 - [ ] [ 4 - React](/4-react/README.md)
 - [ ] [ 5 - Redux](/5-redux/README.md)
 - [ ] [ 6 - React and Redux](/6-react-and-redux/README.md)
